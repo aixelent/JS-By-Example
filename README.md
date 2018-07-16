@@ -23,7 +23,24 @@
  - J11 - Reverse string.
  - J12 - For every one character in string replace it with another (next) character following given in the alphabet. For example:
 `Cosmo` -> `Dptnp`
- - J13 - 
- - J14 - 
- - J15 - 
+ - J13 - Capitalize first letter of each word in string.
+ - J14 - Convert numeric string to hours, minutes and seconds.
+ - J15 - Sort string alphabetically.
+ - J16 - Count vowels in string.
+ - J17 - Move first 5 characters from the beginning at the end of the string.
+ - J18 - Check first and last element in array. If are equals return true or false if they aren't.
+ - J19 - Reverse array.
+ - J20 -
+ - J21 -
+ - J22 -
+ - J23 -
+ - J24 -
+ - J25 -
+ - J26 -
+ - J27 -
+ - J28 -
+ - J29 -
+ - J30 -
+ - J31 -
+
  
