@@ -30,9 +30,9 @@
  - J17 - Move first 5 characters from the beginning at the end of the string.
  - J18 - Check first and last element in array. If are equals return true or false if they aren't.
  - J19 - Reverse array.
- - J20 -
- - J21 -
- - J22 -
+ - J20 - Reverse number value.
+ - J21 - Palindrome checker.
+ - J22 - Generate all combinations of entered string.
  - J23 -
  - J24 -
  - J25 -
