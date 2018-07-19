@@ -33,14 +33,14 @@
  - J20 - Reverse number value.
  - J21 - Palindrome checker.
  - J22 - Generate all combinations of entered string.
- - J23 -
+ - J23 - Find longest word in string.
  - J24 -
- - J25 -
+ - J25 - Generate square with random generated numbers consisting 0 and 1.
  - J26 -
  - J27 -
  - J28 -
- - J29 -
- - J30 -
+ - J29 - Create all possible subsets combinations in an array
+ - J30 - Generate random string from random characters.
  - J31 -
 
  
