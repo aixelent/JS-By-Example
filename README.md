@@ -34,13 +34,13 @@
  - J21 - Palindrome checker.
  - J22 - Generate all combinations of entered string.
  - J23 - Find longest word in string.
- - J24 -
+ - J24 - Prime numbers checker.
  - J25 - Generate square with random generated numbers consisting 0 and 1.
- - J26 -
- - J27 -
- - J28 -
+ - J26 - Count letter occurences in string.
+ - J27 - Return elements from array larger than (n).
+ - J28 - Find first not repeated character.
  - J29 - Create all possible subsets combinations in an array
  - J30 - Generate random string from random characters.
- - J31 -
+ - J31 - Display numbers from range (x, y).
 
  
