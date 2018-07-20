@@ -1,4 +1,4 @@
-const rangeNum = (x,y) => {
+const rangeNum = (x, y) => {
   x++;
   if(x === y - 1) {
     return [x];
