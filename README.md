@@ -23,7 +23,32 @@
  - J11 - Reverse string.
  - J12 - For every one character in string replace it with another (next) character following given in the alphabet. For example:
 `Cosmo` -> `Dptnp`
- - J13 - 
- - J14 - 
- - J15 - 
- 
+ - J13 - Capitalize first letter of each word in string.
+ - J14 - Convert numeric string to hours, minutes and seconds.
+ - J15 - Sort string alphabetically.
+ - J16 - Count vowels in string.
+ - J17 - Move first 5 characters from the beginning at the end of the string.
+ - J18 - Check first and last element in array. If are equals return true or false if they aren't.
+ - J19 - Reverse array.
+ - J20 - Reverse number value.
+ - J21 - Palindrome checker.
+ - J22 - Generate all combinations of entered string.
+ - J23 - Find longest word in string.
+ - J24 - Prime numbers checker.
+ - J25 - Generate square with random generated numbers consisting 0 and 1.
+ - J26 - Count letter occurences in string.
+ - J27 - Return elements from array larger than (n).
+ - J28 - Find first not repeated character.
+ - J29 - Create all possible subsets combinations in an array
+ - J30 - Generate random string from random characters.
+ - J31 - Display numbers from range (x, y).
+ - J32 - Check if number is even or odd.
+ - J33 - Display largest value from 4 given numbers.
+ - J34 - FizzBuzz.
+ - J35 - Sum multiples 3 and 5 from 3 - 1000.
+ - J36 -
+ - J37 -
+ - J38 -
+ - J39 -
+ - J40 -
+
