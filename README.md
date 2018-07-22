@@ -42,5 +42,13 @@
  - J29 - Create all possible subsets combinations in an array
  - J30 - Generate random string from random characters.
  - J31 - Display numbers from range (x, y).
+ - J32 - Check if number is even or odd.
+ - J33 - Display largest value from 4 given numbers.
+ - J34 - FizzBuzz.
+ - J35 - Sum multiples 3 and 5 from 3 - 1000.
+ - J36 -
+ - J37 -
+ - J38 -
+ - J39 -
+ - J40 -
 
- 
