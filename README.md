@@ -46,9 +46,9 @@
  - J33 - Display largest value from 4 given numbers.
  - J34 - FizzBuzz.
  - J35 - Sum multiples 3 and 5 from 3 - 1000.
- - J36 -
- - J37 -
- - J38 -
+ - J36 - Convert binary to decimal.
+ - J37 - Convert decimal to binary.
+ - J38 - Find lowest value in array.
  - J39 -
  - J40 -
 
