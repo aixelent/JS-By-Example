@@ -46,9 +46,18 @@
  - J33 - Display largest value from 4 given numbers.
  - J34 - FizzBuzz.
  - J35 - Sum multiples 3 and 5 from 3 - 1000.
- - J36 -
- - J37 -
- - J38 -
- - J39 -
- - J40 -
-
+ - J36 - Convert binary to decimal.
+ - J37 - Convert decimal to binary.
+ - J38 - Find lowest value in array.
+ - J39 - Check if value is a power of two.
+ - J40 - Sum all values in array.
+ - J41 - Find longest word in array.
+ - J42 - 
+ - J43 - Create two arrays. Take first element from first array, and last element from second array. Than create from these two element new array.
+ - J44 - Find the highest sum of consecutive numbers
+ - J45 - Replace one type of num to another in array.
+ - J46 - 
+ - J47 - 
+ - J48 - 
+ - J49 - 
+ - J50 -  
